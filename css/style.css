@@ -1,0 +1,158 @@
+ *{ 
+     margin:0;
+     padding:0;
+     font-family: 'Times New Roman', Times, serif;
+ }
+/* Title starts */
+ .title{
+     text-decoration: none;
+     color: black;
+     padding-left: 10%;
+     font-size: 19px;
+     font-family: cursive;
+     font-weight: bold;
+ }
+ .other{
+     text-decoration: none;
+     color: black;
+     padding-left: 4%;
+     padding-right: 5%;
+     font-size: 19px;
+     border-right: 2px solid;
+     font-weight: bold;   
+ }
+ .other1{
+     text-decoration: none;
+     color: black;
+     padding-left: 4%;
+     padding-right: 4%;
+     font-size: 19px;   
+     font-weight: bold;
+ }
+/* Title Ends */
+/* Heading Starts */
+ header h3{
+     color:lightgray;
+     font-size: 30px;
+     border: 1px solid black;
+     margin-left: 10%;
+     margin-top: 1%;
+     margin-right: 10%;
+     height: 3em;
+     text-align: center;
+     padding-top: 50px;
+ }
+/* Heading stops */
+/* Skills Starts */
+ aside img{
+     float: left;
+     height: 15em;
+     margin-left: 20%;
+     border-image: 20px;
+ }
+ aside h1{
+     color: rgba(214, 15, 15, 0.856);
+     text-align: center;
+     font-size: 40px;
+ }
+ #about { 
+     height: 2px;
+     background-color: rgb(199, 19, 19);
+     width: 90px; 
+     margin-left: 47%;
+ }
+ .info{
+     color: lightgrey;
+     margin-left: 47%;
+     margin-right: 15%;
+ }
+ #infoline{
+     margin-left: 47%;
+     margin-right: 15%;
+ }
+ body h2{
+     text-align: center;
+     font-size: 40px;
+ }
+/* Skill Ends */
+/* Education Starts */
+#Education{
+     color: rgba(214, 15, 15, 0.856);
+     text-align: center;
+     font-size: 40px;
+ }
+ #skills{
+     height: 2px;
+     width: 90px; 
+     margin-left: 47%;
+     background-color: black;
+ }
+ .skillslist{
+     margin-left: 20%;
+     padding-bottom: 6px;
+ }
+ .Study{
+     margin-left: 20%;
+     color: rgb(138, 133, 133);
+ }
+ .details{
+     color: rgb(175, 171, 171);
+     margin-left: 25%;
+     list-style: circle;
+ }
+/* Education Ends */
+/* Form starts */
+ form{
+     color: lightgray;
+     margin-left: 30%;
+     margin-right: 30%;
+     height: 15em;
+     text-align: center;
+ }
+ #Name{
+     margin-left: 40px;
+     width: 35%;
+     padding-left: 20px;
+ }
+ #Email{
+     margin-left: 40px;
+     width: 35%;
+     padding-left: 20px;
+ }
+ #Number{
+     width: 32%;
+     margin-left: 27px;
+     padding-left: 35px;
+ }
+ #Message{
+     height: 60px;
+     width: 32%;
+     margin-left: 25px;
+     padding-left: 30px;
+ }
+ button{
+     background-color: lightgrey;
+     border: .2px solid black;
+     width: 100px;
+     font-weight: bolder;
+     font-size: medium;
+}
+/* Form Ends */
+/* Footer Starts */
+ .footer{
+     font-weight: bold;
+     color: black;
+     text-decoration: none;
+     padding-left: 7%;
+     padding-right: 8%;
+     border-right: 1.5px solid black;
+ }
+ #fb{
+     font-weight: bold;
+     color: black;
+     text-decoration: none;
+     padding-left: 7%;
+     padding-right: 8%;
+
+ }
+/* footer Ends */
